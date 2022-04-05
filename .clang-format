@@ -18,7 +18,7 @@ AllowShortLoopsOnASingleLine: false
 AlwaysBreakAfterReturnType: None
 AlwaysBreakBeforeMultilineStrings: false
 AlwaysBreakTemplateDeclarations: Yes
-AccessModifierOffset: -4
+AccessModifierOffset: -3
 BinPackArguments: false
 BinPackParameters: false
 BitFieldColonSpacing: After

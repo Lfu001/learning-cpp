@@ -11,6 +11,7 @@ class A {
         // a = 0;    // a == 1 before initialized.
         a = 0;
     }
+
     void print() {
         cout << a << endl;
     }
